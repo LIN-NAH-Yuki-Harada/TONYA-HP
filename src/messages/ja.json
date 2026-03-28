@@ -1,0 +1,199 @@
+{
+  "common": {
+    "companyName": "株式会社 TONYA",
+    "readMore": "詳しく見る",
+    "submit": "送信",
+    "loading": "読み込み中...",
+    "backToList": "一覧に戻る",
+    "prev": "前の記事",
+    "next": "次の記事"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "会社概要",
+    "services": "サービス",
+    "brands": "取扱ブランド",
+    "news": "お知らせ",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシーポリシー"
+  },
+  "hero": {
+    "title": "ブランドを育てる、\n市場の流れ、売れる構造をデザインする。",
+    "subtitle": "EC/D2Cブランドのリテール進出を、戦略から実行まで一気通貫で伴走します。",
+    "tagline": "New Style Merchandising",
+    "cta": "お問い合わせ"
+  },
+  "servicesSummary": {
+    "title": "サービス",
+    "noroshi": {
+      "title": "Noroshi — リテール進出伴走支援",
+      "description": "EC/D2Cメーカーがリテールに進出する際のコンサルタントチーム。戦略設計からバイヤー商談、売場づくり、POS分析まで一気通貫でサポートします。"
+    },
+    "tagpo": {
+      "title": "Tagpo — SNS × 店頭販促",
+      "description": "トレンド感度の高い会員ネットワークを活用し、店頭販促とSNS認知の同時獲得を実現。ウエルシア・ツルハ・LOFT等の公式販促メニューに採用されています。"
+    },
+    "cta": "サービス詳細を見る"
+  },
+  "newsSummary": {
+    "title": "お知らせ",
+    "viewAll": "お知らせ一覧を見る"
+  },
+  "ctaSection": {
+    "title": "お気軽にご相談ください",
+    "description": "リテール進出やSNS×店頭販促に関するご質問やご相談など、お気軽にお問い合わせください。",
+    "cta": "お問い合わせはこちら"
+  },
+  "about": {
+    "pageTitle": "会社概要",
+    "mission": {
+      "title": "ミッション",
+      "text": "メーカーのブランド言語をリテール言語へ翻訳し、「新しい問屋のカタチ」をつくる。"
+    },
+    "vision": {
+      "title": "ビジョン",
+      "text": "プロモーション × マーチャンダイジングで、魅力ある商品の発掘と価値ある提案を行い、店舗価値を高めるパートナーであり続ける。"
+    },
+    "companyInfo": {
+      "title": "会社情報",
+      "name": "会社名",
+      "nameValue": "株式会社 TONYA",
+      "address": "所在地",
+      "addressValue": "ヘッドオフィス : 〒104-0032 東京都中央区八丁堀2-3-9 H¹O八丁堀 #508",
+      "established": "設立日",
+      "establishedValue": "2024年12月13日",
+      "capital": "資本金",
+      "capitalValue": "3,124万円",
+      "ceo": "代表取締役CEO",
+      "ceoValue": "谷口 翔太郎",
+      "business": "事業内容",
+      "businessValue": "リテール進出支援事業（Noroshi）、店頭販促・リアルアフィリエイト販促事業（Tagpo）"
+    },
+    "access": {
+      "title": "アクセス"
+    }
+  },
+  "services": {
+    "pageTitle": "サービス紹介",
+    "intro": {
+      "title": "TONYAの事業モデル",
+      "text": "メーカー（EC/D2Cブランド）は優れた商品を持ちながらもリテール（実店舗）への進出にハードルを感じ、小売は「次のヒット商品」を常に探しています。TONYAはその間に立ち、メーカーのブランド言語をリテール言語へ翻訳する「新しい問屋」として、双方の課題を解決します。"
+    },
+    "model": {
+      "title": "マーチャンダイジング部全体像",
+      "wholesale": {
+        "title": "卸事業",
+        "description": "メーカーから商品を仕入れ、リテール（ドラッグストア、バラエティショップ、GMS等）へ卸売を行います。"
+      },
+      "consulting": {
+        "title": "コンサルティング事業",
+        "description": "リテール進出の戦略設計から実行までを伴走型でサポートします。"
+      }
+    },
+    "noroshi": {
+      "title": "Noroshi — リテール進出伴走コンサルティング",
+      "description": "EC/D2Cメーカーがリテール市場に進出する際に、戦略設計からバイヤー商談、売場づくり、POS分析まで一気通貫で伴走するコンサルティングサービスです。",
+      "frameworkTitle": "6-Step Framework",
+      "steps": [
+        { "step": "01", "title": "SKU評価 & リテール文脈への翻訳", "description": "商品の強みをリテール市場で通用する言語・ロジックに変換します。" },
+        { "step": "02", "title": "リテール戦略設計 & 広告戦略設計", "description": "ターゲットリテーラーの選定と、店頭・デジタルを横断する広告戦略を策定します。" },
+        { "step": "03", "title": "商談準備 & バイヤーアクション", "description": "バイヤー向け提案資料を作成し、商談をアレンジ・実行します。" },
+        { "step": "04", "title": "売り場構築 & POP・SNS連動", "description": "棚割り提案、POP制作、SNSとの連動施策を展開します。" },
+        { "step": "05", "title": "店頭データ分析 & 改善PDCA", "description": "POS データを分析し、売場改善のPDCAサイクルを回します。" },
+        { "step": "06", "title": "成功要因の言語化 & 再現性構築", "description": "成功パターンを体系化し、他リテーラーへの横展開を可能にします。" }
+      ],
+      "meritsTitle": "Noroshiのメリット",
+      "merits": [
+        { "title": "低リスク", "description": "大規模な初期投資不要。スモールスタートでリテール市場を検証できます。" },
+        { "title": "即戦力の伴走", "description": "リテール経験豊富なコンサルタントが、戦略から実行までハンズオンで伴走します。" },
+        { "title": "コスト効率", "description": "自社で営業チームを構築するよりも圧倒的にコスト効率の高いリテール進出を実現します。" }
+      ]
+    },
+    "tagpo": {
+      "title": "Tagpo — SNS × 店頭販促",
+      "description": "トレンド感度の高い会員ネットワークを活用し、店頭での購買とSNS投稿を同時に実現する販促サービスです。ウエルシア・ツルハ・LOFT等の公式販促メニューに採用されています。",
+      "howItWorksTitle": "仕組み",
+      "howItWorks": "Tagpo会員が対象店舗で商品を購入し、SNSに投稿。購買データ（POS）とSNSデータを掛け合わせることで、店頭販売の加速とデジタル認知の拡大を同時に実現します。",
+      "effectsTitle": "導入効果",
+      "effects": [
+        { "title": "店頭販売加速", "description": "対象店舗でのPOS実績が向上し、棚の維持・拡大につながります。" },
+        { "title": "SNS投稿大量生成", "description": "リアルな購買体験に基づく質の高いUGCが大量に生成されます。" },
+        { "title": "認知拡大 & 棚落ち軽減", "description": "SNS認知と店頭実績の相乗効果で、棚落ちリスクを軽減します。" }
+      ]
+    },
+    "cta": "お問い合わせ"
+  },
+  "news": {
+    "pageTitle": "お知らせ",
+    "allCategories": "すべて",
+    "categories": {
+      "news": "ニュース",
+      "press": "プレスリリース",
+      "event": "イベント"
+    },
+    "noArticles": "記事がありません。",
+    "pagination": {
+      "prev": "前へ",
+      "next": "次へ"
+    }
+  },
+  "contact": {
+    "pageTitle": "お問い合わせ",
+    "description": "リテール進出やSNS×店頭販促に関するご質問やご相談など、お気軽にお問い合わせください。以下のフォームにご記入の上、送信してください。",
+    "form": {
+      "company": "会社名",
+      "companyPlaceholder": "例: 株式会社〇〇",
+      "name": "お名前",
+      "namePlaceholder": "例: 山田 太郎",
+      "email": "メールアドレス",
+      "emailPlaceholder": "例: info@example.com",
+      "phone": "電話番号",
+      "phonePlaceholder": "例: 03-1234-5678",
+      "message": "お問い合わせ内容",
+      "messagePlaceholder": "お問い合わせ内容をご記入ください",
+      "submit": "送信する",
+      "sending": "送信中...",
+      "required": "必須"
+    },
+    "success": "お問い合わせありがとうございます。内容を確認のうえ、担当者よりご連絡いたします。",
+    "error": "送信に失敗しました。しばらく経ってから再度お試しください。",
+    "validation": {
+      "companyRequired": "会社名を入力してください",
+      "nameRequired": "お名前を入力してください",
+      "emailRequired": "メールアドレスを入力してください",
+      "emailInvalid": "正しいメールアドレスを入力してください",
+      "messageRequired": "お問い合わせ内容を入力してください"
+    }
+  },
+  "privacy": {
+    "pageTitle": "プライバシーポリシー",
+    "intro": "株式会社TONYA（以下「当社」）は、お客様の個人情報の保護を重要な責務と認識し、以下のとおりプライバシーポリシーを定め、適切な管理・保護に努めます。",
+    "sections": [
+      { "title": "1. 個人情報の定義", "content": "個人情報とは、氏名、住所、電話番号、メールアドレスなど、特定の個人を識別できる情報をいいます。" },
+      { "title": "2. 個人情報の収集", "content": "当社は、お問い合わせやサービスのご利用に際して、必要な範囲で個人情報を収集することがあります。収集にあたっては、利用目的を明示し、適法かつ公正な手段で行います。" },
+      { "title": "3. 個人情報の利用目的", "content": "収集した個人情報は、以下の目的で利用します。\n・お問い合わせへの回答\n・サービスの提供・改善\n・各種ご案内の送付\n・その他、上記に付随する業務" },
+      { "title": "4. 個人情報の第三者提供", "content": "当社は、法令に基づく場合を除き、お客様の同意なく個人情報を第三者に提供することはありません。" },
+      { "title": "5. 個人情報の管理", "content": "当社は、個人情報の漏洩、紛失、改ざん等を防止するため、適切な安全管理措置を講じます。" },
+      { "title": "6. お問い合わせ", "content": "個人情報の取り扱いに関するお問い合わせは、当社お問い合わせ窓口までご連絡ください。" }
+    ],
+    "updatedAt": "制定日: 2024年12月1日"
+  },
+  "brands": {
+    "pageTitle": "正規取扱ブランド",
+    "lead": "TONYAが正規取扱代理店として厳選した、信頼のブランドをご紹介します。",
+    "viewDetail": "ブランド詳細を見る",
+    "exclusiveBadge": "TONYA正規取扱",
+    "storyTitle": "ブランドストーリー",
+    "productsTitle": "主要商品ラインナップ",
+    "exclusiveMessage": "本ブランドはTONYAが正規取扱代理店として、日本国内のリテール市場への展開をサポートしています。",
+    "ctaTitle": "このブランドについてのお問い合わせ",
+    "ctaDescription": "取扱条件や導入に関するご相談など、お気軽にお問い合わせください。",
+    "ctaButton": "お問い合わせはこちら",
+    "backToList": "ブランド一覧に戻る"
+  },
+  "footer": {
+    "description": "EC/D2Cブランドの国内リテール進出を支援する株式会社TONYAの公式サイトです。New Style Merchandising.",
+    "links": "リンク",
+    "copyright": "© {year} 株式会社TONYA. All rights reserved."
+  }
+}

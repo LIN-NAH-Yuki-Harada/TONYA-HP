@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "kyoto-beauty",
+    "name": { "ja": "京都美", "en": "KYOTO BEAUTY" },
+    "category": { "ja": "ヘアケア", "en": "Haircare" },
+    "description": {
+      "ja": "京都発、女性の髪の美しさを最大限に引き出すヘアケアブランド。抹茶の香りと日本画パッケージで、京都らしさを表現した新しいヘアケア文化を発信しています。",
+      "en": "A Kyoto-born haircare brand that maximizes the beauty of women's hair. Expressing the essence of Kyoto through matcha fragrance and Japanese art packaging, it introduces a new haircare culture."
+    },
+    "story": {
+      "ja": "「京都美」は、30年間のプロフェッショナルからのフィードバックに基づいて開発された、京都発のヘアケアブランドです。エイジングケア成分として世界的にトレンドの「PDRN」や、頭皮の炎症を抑える「アズレン」を配合し、頭皮ケアと既存のダメージヘアケアを同時に実現。京都宇治産日本茶エキスを使用した抹茶の香り、日本画家・諫山宝樹による日本画と書家・西本宗璽の定家様書体を採用したパッケージデザインなど、京都・日本の美意識を細部まで表現しています。TONYAは正規取扱代理店として、このブランドの価値を日本全国のリテール市場にお届けしています。",
+      "en": "KYOTO BEAUTY is a Kyoto-born haircare brand developed based on 30 years of professional feedback. Formulated with PDRN, a globally trending anti-aging ingredient, and azulene to reduce scalp inflammation, it simultaneously delivers scalp care and damaged hair repair. From its matcha fragrance using Kyoto Uji green tea extract to its packaging designed by Japanese painter Hoseki Isayama and calligrapher Souji Nishimoto in Teika-style calligraphy, every detail expresses the aesthetic sensibility of Kyoto and Japan. As an authorized distributor, TONYA delivers this brand's value to retail markets across Japan."
+    },
+    "logo": "/images/brands/kyoto-beauty/logo.jpg",
+    "heroImage": "/images/brands/kyoto-beauty/hero.jpg",
+    "exclusive": true,
+    "products": [
+      {
+        "name": { "ja": "京都美 シャンプー", "en": "KYOTO BEAUTY Shampoo" },
+        "description": {
+          "ja": "水飴のようなテクスチャで少量でも十分に泡立つシャンプー。PDRN・アズレン・レブリン酸・エルカラクトン・4種のプロテインを配合し、うねり・くせ毛・ダメージに対応。京都宇治産日本茶エキスによる抹茶の香りで頭皮の臭いを長時間抑制します。",
+          "en": "A shampoo with a syrup-like texture that lathers richly with minimal amount. Formulated with PDRN, azulene, levulinic acid, erucalactone, and four types of protein to address frizz, curls, and damage. Its matcha fragrance from Kyoto Uji green tea extract controls scalp odor for extended periods."
+        },
+        "image": "/images/brands/kyoto-beauty/kyotobeauty-shampoo.jpg"
+      },
+      {
+        "name": { "ja": "京都美 トリートメント", "en": "KYOTO BEAUTY Treatment" },
+        "description": {
+          "ja": "PDRN・アズレンをはじめとするエイジングケア成分を贅沢に配合したトリートメント。ダメージを受けた髪を集中補修し、指通りなめらかなツヤ髪へ導きます。柑橘系やハーブをミックスした爽やかな抹茶の香り。",
+          "en": "A treatment generously formulated with anti-aging ingredients including PDRN and azulene. Intensively repairs damaged hair, delivering smooth, glossy results. Features a refreshing matcha fragrance blended with citrus and herb notes."
+        },
+        "image": "/images/brands/kyoto-beauty/kyotobeauty-treatment.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "haircare-energy",
+    "name": { "ja": "ヘアケアエナジー", "en": "HAIR CARE ENERGY" },
+    "category": { "ja": "ヘアケア・ボディケア", "en": "Haircare & Bodycare" },
+    "description": {
+      "ja": "顔・髪・体を1本で洗えるプロテイン配合オールインワン全身シャンプー。アミノ酸系・6つの無添加処方で肌にやさしく、ジム・ヨガ・サウナ・トラベルなどアクティブなシーンに最適です。",
+      "en": "A protein-infused all-in-one body shampoo that washes face, hair, and body in one step. With amino acid-based cleansing and a 6-free formula gentle on skin, it's perfect for active lifestyles — gym, yoga, sauna, and travel."
+    },
+    "story": {
+      "ja": "「ヘアケアエナジー」は、忙しくアクティブなライフスタイルを送る方のために生まれたオールインワンシャンプーブランドです。プロテイン（タンパク質）とアミノ酸を配合し、髪・顔・体を1本で洗える利便性と、パラベン・サルフェート・シリコン・鉱物油・酸化防止剤・合成着色料の6つの無添加を両立。濃密な泡で肌にやさしく洗い上げながら、しっとりとした仕上がりを実現します。ジムやヨガ、サウナ後のシャワー、出張や旅行のお供として、持ち運びに便利なチューブタイプで展開しています。TONYAは正規取扱代理店として、このブランドの価値を日本全国のリテール市場にお届けしています。",
+      "en": "HAIR CARE ENERGY is an all-in-one shampoo brand born for those with busy, active lifestyles. Formulated with protein and amino acids, it combines the convenience of washing hair, face, and body in one step with a 6-free formula — free of parabens, sulfates, silicone, mineral oil, antioxidants, and synthetic colorants. Its rich lather gently cleanses while delivering a moisturized finish. Available in a convenient tube format perfect for post-gym, yoga, or sauna showers, as well as business trips and travel. As an authorized distributor, TONYA delivers this brand's value to retail markets across Japan."
+    },
+    "logo": "/images/brands/haircare-energy/logo.jpg",
+    "heroImage": "/images/brands/haircare-energy/hero.jpg",
+    "exclusive": true,
+    "products": [
+      {
+        "name": { "ja": "プロテインオールインワンシャンプー（マンダリンオレンジ）", "en": "Protein All-in-One Shampoo (Mandarin Orange)" },
+        "description": {
+          "ja": "マンダリンオレンジの爽やかな香りのオールインワン全身シャンプー。プロテイン・アミノ酸配合のアミノ酸系洗浄で、濃密泡が髪・顔・体をやさしく洗い上げます。250gチューブ。",
+          "en": "An all-in-one body shampoo with a refreshing mandarin orange fragrance. Amino acid-based cleansing enriched with protein and amino acids, its rich lather gently washes hair, face, and body. 250g tube."
+        },
+        "image": "/images/brands/haircare-energy/shampoo-mandarin.jpg"
+      },
+      {
+        "name": { "ja": "プロテインオールインワンシャンプー（ホワイトリリー）", "en": "Protein All-in-One Shampoo (White Lily)" },
+        "description": {
+          "ja": "上品なホワイトリリーの香りのオールインワン全身シャンプー。プロテイン・アミノ酸配合のアミノ酸系洗浄で、濃密泡が髪・顔・体をやさしく洗い上げます。250gチューブ。",
+          "en": "An all-in-one body shampoo with an elegant white lily fragrance. Amino acid-based cleansing enriched with protein and amino acids, its rich lather gently washes hair, face, and body. 250g tube."
+        },
+        "image": "/images/brands/haircare-energy/shampoo-whitelily.jpg"
+      }
+    ]
+  }
+]

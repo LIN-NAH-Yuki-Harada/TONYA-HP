@@ -1,0 +1,199 @@
+{
+  "common": {
+    "companyName": "TONYA Inc.",
+    "readMore": "Learn More",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "backToList": "Back to List",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "brands": "Brands",
+    "news": "News",
+    "contact": "Contact",
+    "privacy": "Privacy Policy"
+  },
+  "hero": {
+    "title": "Nurture Brands.\nDesign the Flow of Markets.",
+    "subtitle": "End-to-end support for EC/D2C brands entering physical retail.",
+    "tagline": "New Style Merchandising",
+    "cta": "Contact Us"
+  },
+  "servicesSummary": {
+    "title": "Services",
+    "noroshi": {
+      "title": "Noroshi — Retail Expansion Support",
+      "description": "A consulting team that supports EC/D2C brands entering physical retail. From strategy design to buyer negotiations, store placement, and POS analytics — all-in-one support."
+    },
+    "tagpo": {
+      "title": "Tagpo — SNS x In-Store Promotion",
+      "description": "Leveraging a trend-savvy member network to simultaneously drive in-store sales and SNS awareness. Adopted as an official promotion program by Welcia, Tsuruha, LOFT, and more."
+    },
+    "cta": "View Service Details"
+  },
+  "newsSummary": {
+    "title": "News",
+    "viewAll": "View All News"
+  },
+  "ctaSection": {
+    "title": "Get in Touch",
+    "description": "Have questions about retail expansion or SNS x in-store promotion? Feel free to contact us.",
+    "cta": "Contact Us"
+  },
+  "about": {
+    "pageTitle": "About Us",
+    "mission": {
+      "title": "Mission",
+      "text": "Translate brand language into retail language, and create a 'new form of wholesale.'"
+    },
+    "vision": {
+      "title": "Vision",
+      "text": "Through Promotion x Merchandising, we discover attractive products, deliver valuable proposals, and remain a partner that enhances store value."
+    },
+    "companyInfo": {
+      "title": "Company Information",
+      "name": "Company Name",
+      "nameValue": "TONYA Inc.",
+      "address": "Location",
+      "addressValue": "Head Office: H¹O Hatchobori #508, 2-3-9 Hatchobori, Chuo-ku, Tokyo 104-0032",
+      "established": "Established",
+      "establishedValue": "December 13, 2024",
+      "capital": "Capital",
+      "capitalValue": "31.24 million yen",
+      "ceo": "Representative Director & CEO",
+      "ceoValue": "Shotaro Taniguchi",
+      "business": "Business",
+      "businessValue": "Retail expansion support (Noroshi), In-store promotion & real affiliate promotion (Tagpo)"
+    },
+    "access": {
+      "title": "Access"
+    }
+  },
+  "services": {
+    "pageTitle": "Services",
+    "intro": {
+      "title": "TONYA's Business Model",
+      "text": "Manufacturers (EC/D2C brands) have excellent products but face barriers entering physical retail, while retailers are always searching for the 'next hit product.' TONYA stands between them as a 'new wholesaler' that translates brand language into retail language, solving challenges for both sides."
+    },
+    "model": {
+      "title": "Merchandising Division Overview",
+      "wholesale": {
+        "title": "Wholesale Business",
+        "description": "We purchase products from manufacturers and wholesale them to retailers (drugstores, variety shops, GMS, etc.)."
+      },
+      "consulting": {
+        "title": "Consulting Business",
+        "description": "We provide hands-on support from retail expansion strategy design to execution."
+      }
+    },
+    "noroshi": {
+      "title": "Noroshi — Retail Expansion Consulting",
+      "description": "A consulting service that provides end-to-end support for EC/D2C brands entering retail markets — from strategy design to buyer negotiations, store placement, and POS analytics.",
+      "frameworkTitle": "6-Step Framework",
+      "steps": [
+        { "step": "01", "title": "SKU Evaluation & Retail Context Translation", "description": "Transform product strengths into language and logic that work in retail markets." },
+        { "step": "02", "title": "Retail Strategy & Advertising Design", "description": "Select target retailers and develop cross-channel advertising strategies spanning in-store and digital." },
+        { "step": "03", "title": "Pitch Preparation & Buyer Action", "description": "Create buyer-facing proposals and arrange/execute negotiations." },
+        { "step": "04", "title": "Store Placement & POP/SNS Integration", "description": "Propose shelf allocation, produce POP materials, and deploy SNS-linked campaigns." },
+        { "step": "05", "title": "In-Store Data Analysis & PDCA", "description": "Analyze POS data and run improvement PDCA cycles for store performance." },
+        { "step": "06", "title": "Success Factor Documentation & Scalability", "description": "Systematize success patterns to enable expansion to other retailers." }
+      ],
+      "meritsTitle": "Benefits of Noroshi",
+      "merits": [
+        { "title": "Low Risk", "description": "No large upfront investment required. Start small and validate the retail market." },
+        { "title": "Expert Support", "description": "Consultants with deep retail experience provide hands-on support from strategy to execution." },
+        { "title": "Cost Efficient", "description": "Achieve retail expansion at significantly lower cost than building an in-house sales team." }
+      ]
+    },
+    "tagpo": {
+      "title": "Tagpo — SNS x In-Store Promotion",
+      "description": "A promotion service that leverages a trend-savvy member network to drive in-store purchases and SNS posts simultaneously. Adopted as an official promotion program by Welcia, Tsuruha, LOFT, and more.",
+      "howItWorksTitle": "How It Works",
+      "howItWorks": "Tagpo members purchase products at target stores and post on SNS. By combining purchase data (POS) with SNS data, we simultaneously accelerate in-store sales and expand digital awareness.",
+      "effectsTitle": "Results",
+      "effects": [
+        { "title": "Accelerated In-Store Sales", "description": "POS performance at target stores improves, leading to shelf maintenance and expansion." },
+        { "title": "Massive UGC Generation", "description": "High-quality user-generated content based on real purchase experiences is created at scale." },
+        { "title": "Awareness & Shelf Protection", "description": "The synergy of SNS awareness and in-store performance reduces the risk of shelf removal." }
+      ]
+    },
+    "cta": "Contact Us"
+  },
+  "news": {
+    "pageTitle": "News",
+    "allCategories": "All",
+    "categories": {
+      "news": "News",
+      "press": "Press Release",
+      "event": "Event"
+    },
+    "noArticles": "No articles found.",
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next"
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "description": "Have questions about retail expansion or SNS x in-store promotion? Please fill out the form below and we will get back to you shortly.",
+    "form": {
+      "company": "Company Name",
+      "companyPlaceholder": "e.g., ABC Corporation",
+      "name": "Your Name",
+      "namePlaceholder": "e.g., John Smith",
+      "email": "Email",
+      "emailPlaceholder": "e.g., info@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "e.g., +81-3-1234-5678",
+      "message": "Message",
+      "messagePlaceholder": "Please enter your inquiry",
+      "submit": "Submit",
+      "sending": "Sending...",
+      "required": "Required"
+    },
+    "success": "Thank you for your inquiry. We will review your message and get back to you shortly.",
+    "error": "Failed to send. Please try again later.",
+    "validation": {
+      "companyRequired": "Company name is required",
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "messageRequired": "Message is required"
+    }
+  },
+  "privacy": {
+    "pageTitle": "Privacy Policy",
+    "intro": "TONYA Inc. (hereinafter referred to as 'the Company') recognizes the protection of personal information as an important responsibility and establishes the following privacy policy to ensure appropriate management and protection.",
+    "sections": [
+      { "title": "1. Definition of Personal Information", "content": "Personal information refers to information that can identify a specific individual, such as name, address, telephone number, and email address." },
+      { "title": "2. Collection of Personal Information", "content": "The Company may collect personal information to the extent necessary for inquiries and service usage. Collection is conducted by lawful and fair means with clear disclosure of the purpose of use." },
+      { "title": "3. Purpose of Use", "content": "Collected personal information will be used for the following purposes:\n- Responding to inquiries\n- Providing and improving services\n- Sending various notifications\n- Other related operations" },
+      { "title": "4. Disclosure to Third Parties", "content": "The Company will not provide personal information to third parties without the customer's consent, except as required by law." },
+      { "title": "5. Management of Personal Information", "content": "The Company implements appropriate security measures to prevent leakage, loss, or alteration of personal information." },
+      { "title": "6. Contact", "content": "For inquiries regarding the handling of personal information, please contact us through our inquiry form." }
+    ],
+    "updatedAt": "Effective Date: December 1, 2024"
+  },
+  "brands": {
+    "pageTitle": "Authorized Brands",
+    "lead": "Discover the trusted brands that TONYA proudly represents as an authorized distributor.",
+    "viewDetail": "View Brand Details",
+    "exclusiveBadge": "TONYA Authorized",
+    "storyTitle": "Brand Story",
+    "productsTitle": "Key Product Lineup",
+    "exclusiveMessage": "This brand is supported by TONYA as an authorized distributor for retail market expansion in Japan.",
+    "ctaTitle": "Inquire About This Brand",
+    "ctaDescription": "For questions about distribution terms or product introduction, feel free to contact us.",
+    "ctaButton": "Contact Us",
+    "backToList": "Back to Brand List"
+  },
+  "footer": {
+    "description": "Official website of TONYA Inc., supporting EC/D2C brands' physical retail expansion. New Style Merchandising.",
+    "links": "Links",
+    "copyright": "© {year} TONYA Inc. All rights reserved."
+  }
+}
